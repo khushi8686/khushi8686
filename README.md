@@ -24,6 +24,8 @@ I’m currently working on .Net ASP<br><br>I’m currently learning Flutter, Nat
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi8686&label=Profile%20views&color=0e75b6&style=flat" alt="khushi8686" /> </p>
 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushi8686&theme=react-dark)
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
